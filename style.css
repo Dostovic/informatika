@@ -46,18 +46,10 @@ ol {
     z-index: 99;
 }
 
-.windows {
-    position: absolute;
-    top: 235px;
-    z-index: -99;
-    transform:scale(0.5);
-    opacity: 0.5;
-}
-
-.laptop {
+.nordvpn {
     position: absolute;
     top: 360px;
-    right: 20px;
+    right: 100px;
     z-index: -99;
     opacity: 0.65;
 }
